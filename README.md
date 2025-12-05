@@ -135,5 +135,4 @@ These simulations demonstrate how architectural choices affect CPU performance a
 
 ---
 
-# 📁 Recommended Repository Structure  
 
